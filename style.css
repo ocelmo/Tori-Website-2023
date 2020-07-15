@@ -1,4 +1,9 @@
 body {
-  font-family: ComicSansMS;
   background-color: lightblue;
+  border: 10px dashed black;
   }
+h1{
+  color: blue;
+  font-size: 50px;
+  font-family: "Arial";
+}
