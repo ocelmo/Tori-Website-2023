@@ -11,7 +11,7 @@ h2{
   color: black;
   font-size: 30px;
   font-family: "Comic Sans MS"; 
-  text-shadow: 2px;
+  text-shadow: 2px 2px;
 }
 
 h3{
