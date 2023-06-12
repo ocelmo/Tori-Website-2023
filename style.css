@@ -2,10 +2,12 @@ body {
   background-color: DeepSkyBlue;
   border: 10px dashed orange;
   }
+
 h1{
-  color: gold;
+  color: white;
   font-size: 50px;
   font-family: "Arial";
+  text-shadow: 2px 2px blue;
 }
 h2{
   color: white;
@@ -17,6 +19,7 @@ h2{
 h3{
   color: white;
   font-family: "Times New Roman";
+  text-shadow: 2px 2px orange;
 }
 a:hover {
   color: gold;
