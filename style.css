@@ -3,20 +3,21 @@ body {
   border: 10px dashed orange;
   }
 h1{
-  color: blue;
+  color: gold;
   font-size: 50px;
   font-family: "Arial";
 }
 h2{
-  color: black;
+  color: white;
   font-size: 30px;
   font-family: "Comic Sans MS"; 
   text-shadow: 2px 2px blue;
 }
 
 h3{
+  color: white;
   font-family: "Times New Roman";
 }
 a:hover {
-  color: yellow;
+  color: gold;
 }
